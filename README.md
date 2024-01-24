@@ -1,4 +1,6 @@
 # Git-GitHub
  Repositório versionado sobre aulas do CeV.
 
- Salvando e apredendo funcionalidades sobre Git e GitHub.
+ Salvando e aprendendo funcionalidades sobre Git e GitHub.
+
+ Nova linha adicionado no site.
